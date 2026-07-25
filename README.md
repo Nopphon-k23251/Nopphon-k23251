@@ -1,6 +1,6 @@
-﻿# ♦️ Hello, I'm Nopphon (●'◡'●) ♦️
+# 🔸 Hello, I'm Nopphon (●'◡'●)👌🔸
 
-## About me 😎
+## 😎 About me 
 - 🎓 Studying Information Technology at KMITL [ 1st year ]
 - 🌱 Always learning new technologies
 
@@ -29,7 +29,7 @@
 - 🔗 [Snake Game](https://github.com/Nopphon-k23251/Snake-Game-Python) — Play snake game
 
 ## 📫 Contact Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nopphon052k@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](nopphon052k@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nopphon-khunsueksa-8a8403414/)
 
 ---
